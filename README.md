@@ -1,5 +1,7 @@
 <h2> Hey there! I'm Ravi. 👋</h2>
 
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ravi84184&repo=Awesome-Profile-README-templates)](https://github.com/ravi84184/Awesome-Profile-README-templates) -->
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
