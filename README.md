@@ -31,6 +31,7 @@ https://ravi84184.github.io/ravi84184/#/
 
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.youtube.com/@flutternik5533?sub_confirmation=1"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Flutter%20Nik-blue?style=flat-square&logo=youtube"></a>
 <a href="https://www.linkedin.com/in/ravi-patel-99461014a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ravi%20Patel-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ravipatel84/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ravipatel84-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.twitter.com/ravi84184/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ravi84184-blue?style=flat-square&logo=twitter"></a>
