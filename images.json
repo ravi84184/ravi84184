@@ -1,6 +1,8 @@
 {
   "category" : [
-    "title" : "minions",
-    "imageSize" : 10
+    {
+      "title" : "minions",
+      "imageSize" : 10
+    }
   ]
 }
