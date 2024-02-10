@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-<!-- - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst. -->
+<!-- - 🎓 &nbsp; Studying Computer Science and Mathematics at the University of Massachusetts Amherst. -->
 - 💼 &nbsp; Working as a Freelancer Android Developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
@@ -25,6 +25,8 @@
 <h3> Portfolio </h3>
 
 https://ravi84184.github.io/ravi84184/#/
+
+https://ravipatel.hashnode.dev/
 
 
 <h3> 🤝🏻 Connect with Me </h3>
